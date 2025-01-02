@@ -1,4 +1,4 @@
-# 💻 Hello, World! I'm [Muniir Ahmadi] 👋 
+# 💻 Hello, World! I'm Muniir Ahmadi 👋 
 
 Welcome to my GitHub profile! 🚀  
 I’m a **Cybersecurity Student** passionate about securing systems, uncovering vulnerabilities, and building tools for a safer digital future. 👨‍💻🛡️ 
@@ -33,7 +33,6 @@ AI & Analytics: Artificial Intelligence and Intelligent Data Analysis.
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](www.linkedin.com/in/muniirahmadi)  
-- 🐦 [Twitter]([https://twitter.com/yourhandle](https://x.com/mnratk) 
 
 ---
 
